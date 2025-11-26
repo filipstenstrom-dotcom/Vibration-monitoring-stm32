@@ -44,5 +44,3 @@ Collected data will be analyzed using Python or MATLAB to perform:
 
 ---
 
-## 📂 Repository Structure (Suggested)
-
